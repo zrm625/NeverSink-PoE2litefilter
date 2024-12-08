@@ -1,1 +1,54 @@
-# NeverSink-PoE2litefilter
+[![Follow me on Twitter](https://img.shields.io/badge/twitter-grey.svg?style=for-the-badge&logo=twitter)](https://twitter.com/NeverSinkDev) [![FilterBlade Discord](https://img.shields.io/badge/discord-grey.svg?style=for-the-badge&logo=discord)](https://discord.gg/mye6xhF) [![Watch FB Dev on Twitch](https://img.shields.io/badge/twitch-grey.svg?style=for-the-badge&logo=twitch)](https://twitch.tv/neversink) [![Support development on Patreon](https://img.shields.io/badge/patreon-grey.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Neversink)
+
+## **QUICK START:**
+
+This is an "ItemFilter" - a script for the game Path of Exile 2 (not PoE1!). It highlights valuable items, hide pointless drops and enhances gameplay comfort and experience.
+This is *NOT* a hack/mod. It written using the official POE filter domain language. This script (NeverSink's Filter) is shipped on the console versions of the game.
+
+This is a fairly light filter. This repository will be reused in the future to expand and replace this filter with a fully-fledged one.
+
+Feature highlights
+- Does NOT hide items. Only highlights valuable drops!
+- Highlight for all important PoE2 currencies with minimal tiering
+- Minimal sounds, beams and fontsizes for highlight desirable items
+- Special currency highlight
+- Highlight for rings, amulets and belts
+- Better gold visualization
+- Highlight for gems, runes, jewels and other special character progression items
+
+NOT yet implemented (coming soon hopefully):
+- NO way to highlight 'tier' items (not supported by PoE as of now)
+- NO way to highlight socketed items (not supported by PoE as of now)
+- No filterblade support
+- No easy/direct way to install on consoles
+- No strictness/style support
+
+## **IMPORTANT: MUST READ:**
+
+0) This is a new and experimental filter, it has WAY less polishing and is not even comparable in scope to my POE1 filter. Tread with caution and please provide feedback! 
+1) The filters in this GitHub project are ALWAYS updated before the start of a new league (4-6 hours before start). Afterwards, usually every few weeks.
+2) The filters from this GitHub project do NOT auto-update. At least redownload the latest version once a league - better once a month - to stay up-to-date and not miss out on valuable drops! There is an auto-updater, read about it below.
+3) Filters can't distinguish between different variations of one unique base! A unique "Leather Belt" can be an expensive "Headhunter" or a cheap "Wurm's Molt". The same goes for all unique jewels etc. Things that need manual checking usually have a blue icon on the minimap!
+4) Join our [Discord Server](https://discord.gg/mye6xhF) to get updates and ask questions.
+
+## **HOW TO INSTALL?**
+
+Currently there are multiple sources:
+
+Download the latest release from github.
+
+0) Get the latest filter file from [GitHub](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter/releases/latest).
+1) Extract the files using 7zip or a similar tool.
+2) Paste the .filter files (or just the folder content, if you want to use a specific style, paste the files from one of the (STYLE) folders instead) into the following folder: *%userprofile%/Documents/My Games/Path of Exile 2*
+3) INGAME: Escape -> Options -> Game -> Filters -> Select one of the filters from the dropdown box.
+4) Done. Enjoy.
+
+## **SUPPORT:**
+
+The filter itself will always be free, including updates.
+
+Major thanks to all patreon support to help us fund the continious development. [Patreon](https://www.patreon.com/Neversink) supporters also receive a Patreon-exclusive [Filter-Auto-Updater](https://youtu.be/i8RJx0s0zsA). You can also [buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6J3S7PBNDQGY2). Your support is appreciated. Thank you!
+
+--------------------------
+
+[![Become a Patreon](https://img.shields.io/badge/patreon-%F0%9F%8E%AF-orange.svg)](https://www.patreon.com/Neversink)
