@@ -7,6 +7,8 @@ This is *NOT* a hack/mod. It written using the official POE filter domain langua
 
 This is a fairly light filter. This repository will be reused in the future to expand and replace this filter with a fully-fledged one.
 
+![image](https://github.com/user-attachments/assets/8a8addae-5bcf-44f6-8144-c163e04b821a)
+
 Feature highlights
 - Does NOT hide items. Only highlights valuable drops!
 - Highlight for all important PoE2 currencies with minimal tiering
@@ -15,6 +17,7 @@ Feature highlights
 - Highlight for rings, amulets and belts
 - Better gold visualization
 - Highlight for gems, runes, jewels and other special character progression items
+- Adds map icons to important drops
 
 NOT yet implemented (coming soon hopefully):
 - NO way to highlight 'tier' items (not supported by PoE as of now)
