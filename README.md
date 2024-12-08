@@ -18,10 +18,10 @@ Feature highlights
 - Better gold visualization
 - Highlight for gems, runes, jewels and other special character progression items
 - Adds map icons to important drops
+- Socketed and quality items (not super happy with border, but works well)
 
 NOT yet implemented (coming soon hopefully):
 - NO way to highlight 'tier' items (not supported by PoE as of now)
-- NO way to highlight socketed items (not supported by PoE as of now)
 - No filterblade support
 - No easy/direct way to install on consoles
 - No strictness/style support
