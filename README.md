@@ -42,9 +42,11 @@ Download the latest release from github.
 
 0) Get the latest filter file from [GitHub](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter/releases/latest).
 1) Extract the files using 7zip or a similar tool.
-2) Paste the .filter files (or just the folder content, if you want to use a specific style, paste the files from one of the (STYLE) folders instead) into the following folder: *%userprofile%/Documents/My Games/Path of Exile 2*
-3) INGAME: Escape -> Options -> Game -> Filters -> Select one of the filters from the dropdown box.
-4) Done. Enjoy.
+2) Paste the .filter files (or just the folder content, if you want to use a specific style, paste the files from one of the (STYLE) folders instead) into the following folder:
+   - Windows: `%userprofile%\Documents\My Games\Path of Exile 2`
+   - Linux: `steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/My Documents/My Games/Path of Exile 2`
+4) INGAME: Escape -> Options -> Game -> Filters -> Select one of the filters from the dropdown box.
+5) Done. Enjoy.
 
 ## **SUPPORT:**
 
