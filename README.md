@@ -21,10 +21,11 @@ Feature highlights
 - Socketed and quality items (not super happy with border, but works well)
 
 NOT yet implemented (coming soon hopefully):
-- NO way to highlight 'tier' items (not supported by PoE as of now)
+- No way to highlight 'tier' items (not supported by PoE as of now)
 - No filterblade support
-- No easy/direct way to install on consoles
+- No way to install on consoles
 - No strictness/style support
+- No economy based tiering
 
 ## **IMPORTANT: MUST READ:**
 
@@ -45,7 +46,7 @@ Download the latest release from github.
 2) Paste the `NeverSinks Litefilter.filter` file into the following folder:
    - Windows: `%userprofile%\Documents\My Games\Path of Exile 2`
    - Linux: `steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/My Documents/My Games/Path of Exile 2`
-4) INGAME: Escape -> Options -> Game -> Filters -> Select one of the filters from the dropdown box.
+4) INGAME: Escape -> Options -> Game -> Filters -> Select the filter from the dropdown box.
 5) Done. Enjoy.
 
 ## **SUPPORT:**
