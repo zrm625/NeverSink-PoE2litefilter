@@ -233,7 +233,6 @@ SetFontSize 40
 # Salvagable Items
 #--------------------------
 
-# Not working!
 Show
 Sockets > 0
 Rarity Normal
@@ -246,7 +245,6 @@ Rarity Normal
 SetBorderColor 200 200 200
 SetFontSize 35
 
-# Not working!
 Show
 Sockets > 0
 Rarity Magic
