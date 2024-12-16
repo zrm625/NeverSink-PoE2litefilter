@@ -2,7 +2,7 @@
 
 ## **QUICK START:**
 
-This is an "ItemFilter" - a script for the game Path of Exile 2 (not PoE1!). It highlights valuable items, hide pointless drops and enhances gameplay comfort and experience.
+This is an "ItemFilter" - a script for the game Path of Exile 2 (not PoE1!). It highlights valuable items, and enhances gameplay comfort and experience.
 This is *NOT* a hack/mod. It written using the official POE filter domain language. This script (NeverSink's Filter) is shipped on the console versions of the game.
 
 This is a fairly light filter. This repository will be reused in the future to expand and replace this filter with a fully-fledged one.
