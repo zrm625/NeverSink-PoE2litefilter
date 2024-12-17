@@ -1,7 +1,7 @@
 #===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
-# VERSION:  0.2.0
+# VERSION:  0.2.1
 # AUTHOR:   NeverSink
 #
 # This is a mini-filter designed for early PoE2 EA gameplay. I will eventually replace it with a full-fledged filter
@@ -231,6 +231,16 @@ PlayAlertSound 2 300
 PlayEffect Yellow
 MinimapIcon 1 Yellow Circle
 SetFontSize 45
+
+Show
+BaseType "Gold Key" "Silver Key" "Bronze Key"
+SetTextColor 255 207 132
+SetBorderColor 255 207 132
+SetBackgroundColor 76 51 12
+PlayAlertSound 2 300
+PlayEffect White
+MinimapIcon 2 White Circle
+SetFontSize 40
 
 # Currency Tier B: Regal, Vaal ...
 Show
