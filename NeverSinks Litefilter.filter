@@ -146,7 +146,27 @@ SetTextColor 0 240 190
 SetBorderColor 0 240 190
 SetFontSize 45
 MinimapIcon 0 Cyan Diamond
+PlayAlertSound 2 300
 PlayEffect Cyan
+
+# Special Highlight - Breach Rings
+Show 
+Rarity Rare
+BaseType == "Breach Ring"
+SetTextColor 0 240 190
+SetBorderColor 0 240 190
+SetFontSize 40
+MinimapIcon 1 Cyan Diamond
+PlayEffect Cyan
+PlayAlertSound 2 300
+
+Show 
+Rarity <= Magic
+BaseType == "Breach Ring"
+SetTextColor 0 240 190
+SetFontSize 35
+MinimapIcon 2 Cyan Diamond
+PlayEffect Cyan Temp
 
 # Special A Tier - Sanctum Relics
 Show 
@@ -155,6 +175,7 @@ SetTextColor 0 240 190
 SetBorderColor 0 240 190
 SetFontSize 40
 MinimapIcon 1 Cyan Diamond
+PlayAlertSound 2 300
 PlayEffect Cyan
 
 # Special A Tier - Rare Jewels
@@ -166,6 +187,7 @@ SetBorderColor 0 240 190
 SetFontSize 40
 MinimapIcon 1 Cyan Diamond
 PlayEffect Cyan
+PlayAlertSound 2 300
 
 # Special B Tier - Any Runes and Charms
 Show 
