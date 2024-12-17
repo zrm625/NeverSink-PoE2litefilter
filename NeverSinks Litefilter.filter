@@ -143,8 +143,18 @@ MinimapIcon 1 White Circle
 SetFontSize 40
 
 Show
+Class "Omen"
+BaseType "Omen of"
+SetTextColor 255 207 132
+SetBorderColor 255 207 132
+SetBackgroundColor 76 51 12
+PlayAlertSound 2 300
+PlayEffect White
+MinimapIcon 1 White Circle
+
+Show
 Class "Currency"
-BaseType "Distilled" "Catalyst" "Essence of" "Omen of"
+BaseType "Distilled" "Catalyst" "Essence of"
 SetTextColor 255 207 132
 SetBorderColor 255 207 132
 SetBackgroundColor 76 51 12
