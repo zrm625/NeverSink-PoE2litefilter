@@ -10,7 +10,9 @@ This is a fairly light filter. This repository will be reused in the future to e
 ![image](https://github.com/user-attachments/assets/8a8addae-5bcf-44f6-8144-c163e04b821a)
 
 Feature highlights
-- Does NOT hide items. Only highlights valuable drops!
+- Does NOT hide items during campaign. Only highlights valuable drops!
+- In the endgame hides absolutely outleveled campaign gear (anything with sockets, quality etc still gets shown of course)
+- Automatically and progressively hides more gear and reduces highlight on less important items as you progress through the waystone tiers
 - Highlight for all important PoE2 currencies with minimal tiering
 - Minimal sounds, beams and fontsizes for highlight desirable items
 - Special currency highlight
