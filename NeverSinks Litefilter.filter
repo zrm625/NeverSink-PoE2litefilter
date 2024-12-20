@@ -463,7 +463,7 @@ Class "Flasks"
 Hide
 AreaLevel >= 78
 Rarity <= Magic
-DropLevel < 70
+DropLevel < 65
 Class "Body Armours" "Helmets" "Boots" "Gloves" "Shields" "Foci" "One Hand Maces" "Two Hand Maces" "Quarterstaves" "Bows" "Crossbows"
 
 Hide
